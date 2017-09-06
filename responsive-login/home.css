@@ -1,0 +1,64 @@
+body{
+	background-color: #330033;
+	font-family: 'Raleway', sans-serif;
+	
+}
+
+.container{
+	width:90%;
+	margin: 100px auto;
+	background-color: white;
+	height: 100%;
+	border-radius: 2px;
+}
+
+.inside-container{
+    margin-top: 200px;
+}
+
+.texxt{
+	color: #FF007F;
+	font-weight: normal;
+	text-align: left !important;
+}
+
+.form-horizontal{
+	width: 100%;
+	margin: auto;
+}
+
+input[type=text] {
+	width: 80%;
+	border: none;
+    padding: 12px 20px;
+    margin: 8px auto 8px auto;
+    box-sizing: border-box;
+    margin-left: auto;
+}
+
+input[type=password]{
+	width: 80%;
+	border: 0px 0px 2px 0px;
+	border-color: ;
+    padding: 12px 20px;
+    margin: 8px auto 8px auto;
+    box-sizing: border-box;
+}
+
+.btn{
+	padding: 10px;
+	background-color: #FF007F;
+	border: 0px;
+	color: #FFFAF0;
+	font-size: 14px;
+    box-sizing: border-box;
+}
+
+.btn1{
+	padding: 10px;
+	background-color: #330033;
+    box-sizing: border-box;
+	border: 0px;
+	color: #FFFAF0;
+	font-size: 14px;
+}
